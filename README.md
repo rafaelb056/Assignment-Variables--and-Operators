@@ -4,20 +4,13 @@
 
 > One paragraph statement about the project.
 
-![screenshot](./app_screenshot.png)
+![screenshot](Screenshot 2024-04-09 122707.png)
 
 Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
+- vscode
 
 ## Getting Started
 
@@ -25,51 +18,35 @@ Additional description about the project and its features.
 **Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 
-To get a local copy up and running follow these simple example steps.
+como hacer una copia en local
 
-### Prerequisites
+### ir al repositorio del github
 
-### Setup
+### copiar el codigo de http
 
-### Install
+### y hacer un git clone en una terminal de linux o en git bash
 
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+### cuando ya  este clonado abrilo con visual studio code
 
 ## Authors
 
-👤 **Arístides José Molina Pérez**
+👤 **Rafael Benitez Enriquez Gonzales**
 
-- GitHub: [@aristides1000](https://github.com/aristides1000)
-- Twitter: [@aristides_1000](https://twitter.com/aristides_1000)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aristides-molina/)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@rafaelb056](https://github.com/rafaelb056)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/rafaelb056/test_to_flexbox/issues).
 
 ## Show your support
 
-Give a ⭐️ if you like this project!
+muchas gracias por el apoyo
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+-  gracias al profesor aristides
 
 ## 📝 License
 
